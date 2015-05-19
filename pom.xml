@@ -10,7 +10,7 @@
 	<build>
 	    <resources>
 		  <resource>
-		    <directory>${basedir}/WebContent<directory>
+		    <directory>${basedir}/WebContent</directory>
 		  </resource>
 		</resources>
 		<finalName>RestProject</finalName>
