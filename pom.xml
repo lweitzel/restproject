@@ -8,6 +8,11 @@
 	<version>1.0.0.</version>
 	<name>RestProject Demo</name>
 	<build>
+	    <resources>
+		  <resource>
+		    <directory>${basedir}/WebContent<directory>
+		  </resource>
+		</resources>
 		<finalName>RestProject</finalName>
 		<plugins>
 			<plugin>
